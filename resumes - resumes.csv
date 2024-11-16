@@ -1,0 +1,14 @@
+id,user_id,name,type,video,views,created_at
+1,300,mi primer video,pitch_video,https://media.talentpitch.co/resumes/1/akjdaksdha212312k3hka.mp4,120,2024-06-06
+2,400,personal pitch,pitch_video,https://media.talentpitch.co/resumes/2/dadkajdakjd.mp4,1,2024-06-07
+3,500,soy,pitch_video,https://media.talentpitch.co/resumes/3/12312831823.mp4,2,2024-06-08
+4,600,hola a todos,pitch_video,https://media.talentpitch.co/resumes/4/aws_kajskadjsd.mp4,4,2024-06-09
+5,700,gran talento,pitch_video,https://media.talentpitch.co/resumes/5/aws_123123kja.mp4,55,2024-06-10
+6,800,mi primer video,pitch_video,https://media.talentpitch.co/resumes/6/temp_aws_asdasda.mp4,56,2024-06-11
+7,900,cantando un poco,pitch_video,https://media.talentpitch.co/resumes/7/2213231j2h3j.mp4,234,2024-06-12
+8,1000,conoceme,pitch_video,https://media.talentpitch.co/resumes/8/2213231j2h3j.mp4,123,2024-06-13
+9,1000,experiencia profesional,resume,https://media.talentpitch.co/resumes/9/ahdgadh1213knbcc.mp4,123,2024-06-14
+10,2000,hola soy apasionado por la tecnología,pitch_video,https://media.talentpitch.co/resumes/10/temp_temp2213231j2h3j.mp4,77,2024-06-15
+11,2000,me gusta la musica,resume,https://media.talentpitch.co/resumes/11/2255nncbvzfssaa_2123.mp4,98,2024-06-16
+12,3000,creativos,pitch_video,https://media.talentpitch.co/resumes/12/aws_temp_123123hjha.mp4,19,2024-06-17
+13,3000,ayudame a emprender,resume,https://media.talentpitch.co/resumes/13/adsadasdasda.mp4,29,2024-06-18

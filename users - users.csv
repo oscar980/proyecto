@@ -1,0 +1,11 @@
+id,name,identification_number,slug,video,email,gender,created_at,updated_at
+300,Pedro diaz,7769157043,pedr_diaz,https://media.talentpitch.co/resumes/1/akjdaksdha212312k3hka.mp4,james.smith47@example.com,M,2024-02-22,2024-05-22
+400,Juan suarez,9393968180,juanjo-suarez-2,https://media.talentpitch.co/resumes/2/dadkajdakjd.mp4,emma.johnson87@example.org,M,2024-02-23,2024-05-23
+500,Juan diaz,532041134,jj-diaz,https://media.talentpitch.co/resumes/3/12312831823.mp4,michael.brown123@example.net,M,2024-02-24,2024-05-24
+600,Pedro jimenez,3379216529,pedro-jime-23,https://media.talentpitch.co/resumes/4/aws_kajskadjsd.mp4,sophia.wilson78@example.com,,2024-02-25,2024-05-25
+700,Lisa Duarte,4969378193,lis-duar,https://media.talentpitch.co/resumes/5/aws_123123kja.mp4,william.davis92@example.org,F,2024-02-26,2024-05-26
+800,Juan jose,8368708077,juanjo-munoz-2,https://media.talentpitch.co/resumes/6/temp_aws_asdasda.mp4,olivia.martinez65@example.net,M,2024-02-27,2024-05-27
+900,Ana beltran,1230295606,anna-beltran,https://media.talentpitch.co/resumes/7/2213231j2h3j.mp4,noah.miller34@example.com,F,2024-02-28,2024-05-28
+1000,Luisa perez,8410487433,luisita-perez-22,NULL,ava.lopez21@example.org,F,2024-02-29,2024-05-29
+2000,Jesus barreto,8751818549,jj-bbarreto,NULL,liam.anderson56@example.net,M,2024-03-01,2024-05-30
+3000,Clara benavidez,4076184747,clara-bena,NULL,isabella.moore43@example.com,F,2024-03-02,2024-05-31

@@ -1,0 +1,6 @@
+# Ignorar archivos y carpetas 
+__pycache__/
+*.pyc
+*.pyo
+.spyproject/
+.DS_Store
